@@ -6,4 +6,4 @@ Learning about git
 
 - Bob Cat bob@mail.com
 - Tom Cat tom@mail.com
-- Alex Lamb alex@mail.com
+- Mary Lamb mary@mail.com
